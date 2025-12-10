@@ -1,5 +1,5 @@
-{
-  "name": "data-engineer-portfolio",
+﻿{
+  "name": "ibm-portfolio",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -24,3 +24,4 @@
     "vite": "^5.0.2"
   }
 }
+
